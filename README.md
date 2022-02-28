@@ -1,4 +1,4 @@
-## ✌🏽 Yoo! Eu sou a Daniel Layon 👨🏽‍💻
+## ✌🏽 Yoo! Eu sou o Daniel Layon 👨🏽‍💻
  <div>
   <a href="https://github.com/DanielLayon">
   <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=DanielLayon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
